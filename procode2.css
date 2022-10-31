@@ -1,0 +1,28 @@
+*{
+
+	margin: 0;
+	padding: 0;
+}
+.Bandera{
+	width: 120px;
+	
+}
+.info{
+	margin-top: 10px;
+	margin-left: 100px;
+	margin-right: 100px;
+}
+.text{
+	font-size: 18px;
+	font-weight: 600;
+}
+.text_2{
+	font-size: 14px;
+	font-weight: 400;
+}
+.text_3{
+	margin-top: 40px;
+}
+.avtor{
+	margin-left: 900px;
+}
